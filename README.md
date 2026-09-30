@@ -1,4 +1,4 @@
-# GPU-Accelerated SAG Scheduling Analysis
+# GPU-Accelerated SAG Scheduling Analysis for Real-Time Systems
 
 Runtime source for the CUDA SAG solver.
 
